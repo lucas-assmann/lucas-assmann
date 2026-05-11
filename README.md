@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/rkMsCWV.gif" />
+  <img align="center" height="150" src="https://raw.githubusercontent.com/lucas-assmann/lucas-assmann/main/output-onlinegiftools.gif" />
 </div>
 
 <div align="center">
