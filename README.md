@@ -39,8 +39,10 @@
 <br>
 
 <div align="center">
-  <img height="172" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=lucas-assmann&rank_icon=default&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true">
-  <img height="172" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=lucas-assmann&layout=donut&theme=github_dark&count_private=true">
+<img 
+  height="172"
+  src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=lucas-assmann&custom_title=Lucas%20Assmann%20GitHub%20Stats&rank_icon=default&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true"
+/>  <img height="172" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=lucas-assmann&layout=donut&theme=github_dark&count_private=true">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-assmann&theme=github_dark"/>
 </div>
 
