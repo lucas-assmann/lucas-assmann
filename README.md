@@ -24,8 +24,8 @@
 <br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=lucas-assmann&rank_icon=default&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=lucas-assmann&layout=compact&theme=github_dark&count_private=true">
+  <img height="172" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=lucas-assmann&rank_icon=default&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true">
+  <img height="172" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=lucas-assmann&layout=donut&theme=github_dark&count_private=true">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-assmann&theme=github_dark"/>
 </div>
 
@@ -56,18 +56,20 @@
   <br>
   <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-16a34a?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:lucas.edu.assmann@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/lucas-assmann)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-15803d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-assmann/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:lucas.edu.assmann@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/lucas-assmann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-assmann/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/users/432521269431369728)
 
 </div>
 
 <br>
 
+##
+
+<br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucas-assmann&style=for-the-badge&color=22c55e&label=visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=lucas-assmann&style=for-the-badge&color=22c55e&label=VISITORS"/>
 </div>
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:0f172a,50:22c55e,100:052e16&section=footer"/>
