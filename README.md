@@ -14,13 +14,28 @@
 
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=22c55e&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Computer+Science+student;I'm+a+Full+Stack+Developer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=22c55e&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Computer+Science+student;I'm+a+Full+Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG"/>
 </div>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20what%20we%20repeatedly%20do.%20Excellence%2C%20then%2C%20is%20not%20an%20act%2C%20but%20a%20habit.&author=Aristóteles"/>
 </div>
 
+<div align="center">
+  <samp>
+    Full stack developer focused on clean design, performance and real-world solutions.
+  </samp>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://lucas-portfolio-app.vercel.app/">
+    <img src="https://img.shields.io/badge/▶▶%20my%20portfolio%20◀◀-22c55e?style=for-the-badge&logoColor=fff"/>
+  </a>
+</div>
+
 ##
+
 <br>
 
 <div align="center">
@@ -48,6 +63,7 @@
 
 
 ##
+<br>
 
 <div align="center">
   <samp>
@@ -72,4 +88,5 @@
   <img src="https://komarev.com/ghpvc/?username=lucas-assmann&style=for-the-badge&color=22c55e&label=VISITORS"/>
 </div>
 
+<br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:0f172a,50:22c55e,100:052e16&section=footer"/>
